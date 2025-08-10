@@ -1,0 +1,14 @@
+sensor:
+  - platform: rest
+    name: inverter_data
+    resource_template: !secret dessmonitor_api_uri
+    method: GET
+    json_attributes_path: "$.dat.pars"
+    json_attributes:
+      - gd_
+      - sy_
+      - pv_
+      - bt_
+      - bc_
+    scan_interval: 120
+    value_template: "OK"
