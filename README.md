@@ -1,1 +1,0 @@
-dessmonitor_api_uri: "https://web.dessmonitor.com/public/?sign=75d4d93da056ed7b4a5cbb4f742132a80ecca4b9&salt=1754846697187&token=3fb612b585dc6ae7b2cdc461e440c37cbeed81cd209227a8b0e78f050264fd79&action=querySPDeviceLastData&source=1&devcode=6416&pn=Q0033259893712&devaddr=5&sn=Q0033259893712191005&i18n=en_US"
